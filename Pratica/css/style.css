@@ -31,3 +31,18 @@ body {
     background-repeat: no-repeat;
     background-size: 100%;
 }
+
+.carousel-item {
+  position: relative;
+  top: -100px;
+}
+
+span.carousel-control-next-icon {
+  position: relative;
+  top: 50px;
+}
+
+span.carousel-control-prev-icon {
+  position: relative;
+  top: 50px;
+}
